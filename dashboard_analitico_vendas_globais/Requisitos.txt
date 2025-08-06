@@ -1,4 +1,5 @@
-Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
+Dashboard Analítico de Vendas Globais
+O objetivo desse Dashboard foi a utilização de gráficos simples do dia a dia, importando fonte de dados de csv e sem realizações de tratamentos.
 
 Pergunta 1 - Qual o valor total vendido?
 Foi utilizado o gráfico de cartão nesse caso.
