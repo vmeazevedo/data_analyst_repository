@@ -22,7 +22,7 @@ Consolidar o aprendizado adquirido no curso de Power BI através da prática com
 
 Caso queira trocar ideias ou dar feedback sobre os projetos:
 
-- **LinkedIn:** [Seu Nome](https://www.linkedin.com/in/vin%C3%ADcius-a-45180ab2/)  
+- **LinkedIn:** [Vinícius Azevedo](https://www.linkedin.com/in/vin%C3%ADcius-a-45180ab2/)  
 
 ---
 
