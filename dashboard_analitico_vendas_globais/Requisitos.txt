@@ -1,0 +1,20 @@
+Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
+
+Pergunta 1 - Qual o valor total vendido?
+Foi utilizado o gráfico de cartão nesse caso.
+
+Pergunta 2 - Quantas vendas foram realizadas por categoria de produto?
+Foi utilizado o gráfico de pizza nesse caso.
+
+Pergunta 3 - Quantas vendas foram realizadas por país considerando a prioridade de entrega?
+Foi utilizado o gráfico de barras empilhadas.
+
+Pergunta 4 - Qual foi a média de desconto nas vendas por subcategoria de produto?
+Foi utilizado o gráfico de barra clusterizado.
+
+Pergunta 5 - Quais países tiveram maior média de valor de venda? Demonstre em um mapa.
+Foi utilizado o gráfico de mapa
+
+E nosso Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, por segmento e por país.
+Foi utilizado segmentação de dados.
+
