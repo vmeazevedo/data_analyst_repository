@@ -1,0 +1,14 @@
+- Upload do dataset Clientes:
+	Identificamos que a primeira linha da base não estava classificada corretamente, ela estava como column 1, etc.
+	Para resolver isso clicamos em transformar dados, e na pagina inicial do power query tem o item "Usar a Primeira Linha como Cabeçalho", ele ajusta automaticamente para a gente.
+
+
+- Na exibição do modelo:
+	Identificamos que havia problemas de relacionamento.
+	Indo no menu Gerenciar relações, identificamos que por padrão estava atrelado *:*, o próprio BI nos informou que havia duplicadas nas tabelas onde foi ajustado via o Transformar dados.
+
+- Gráfico de KPI:
+	Ao add a media do valor de vendas, precisamos setar um valor mínimo e máximo. Para isso selecionamos o gráfico e fomos em Visualizações>Formatar seu visual>Eixo do medidor. Nesse campo podemos setar o indicador de alvo.
+
+- Usando DAX:
+	No trabalho atual foi preciso criar uma função DAX para trazer o lucro, valor vendo - custo era a formula. Identificamos que a forma de criar a nova coluna se assemelha ao Excel
