@@ -1,0 +1,25 @@
+SUMMARIZE → Cria uma tabela com cada altura única e a contagem de ocorrências.
+MAXX → Acha a maior frequência.
+FILTER → Filtra as alturas que têm essa maior frequência.
+CONCATENATEX → Junta todas as alturas empatadas na moda em uma string separada por vírgula.
+
+ModaAltura = 
+VAR TabelaFrequencia = SUMMARIZE( 
+        dados_pacientes,
+        dados_pacientes[altura(cm)],
+        "Frequencia", COUNT(dados_pacientes[altura(cm)]))
+VAR MaiorFrequencia = MAXX(
+        TabelaFrequencia,
+        [Frequencia])
+RETURN
+    CONCATENATEX(FILTER(TabelaFrequencia, [Frequencia] = MaiorFrequencia), dados_pacientes[altura(cm)], ", ")
+
+
+----------------------------------------------------
+STDEV.P → calcula o desvio padrão populacional.
+AVERAGE → calcula a média do peso.
+DIVIDE → divide desvio padrão pela média, evitando erro de divisão por zero.
+
+CVPeso = DIVIDE(STDEV.P(dados_pacientes[peso(kg)]), AVERAGE(dados_pacientes[peso(kg)])) * 100
+
+coeficiente de variação = dividindo o desvio padrão do peso pela media do peso
