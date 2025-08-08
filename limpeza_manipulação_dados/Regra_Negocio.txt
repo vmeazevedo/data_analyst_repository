@@ -1,0 +1,9 @@
+Qual é a distribuição do limite de crédito por tipo de cliente e estado?
+
+Como a taxa de desconto varia entre os diferentes tipos de cliente e estados civis?
+
+Qual a correlação entre idade, peso e altura dos clientes com o limite de crédito concedido?
+
+Quais cidades apresentam maior concentração de clientes com limites de crédito mais altos?
+
+Qual o perfil médio (idade, peso, altura, estado civil) dos clientes com maior limite de crédito?

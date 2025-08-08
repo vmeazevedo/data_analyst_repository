@@ -1,3 +1,10 @@
 MODA por Frequência de Contagem:
 Quando realizamos a contagem de frequência obtemos a moda.
 Por exemplo, ao selecionar a variável de "tipo sanguíneo" em uma tabela, iremos obter a lista deles, ao selecionar novamente e ajustar para contagem, vamos ter a quantidade por tipo. Ordenando por DESC obtemos a moda.
+
+Tratamento de nulos:
+Para tratar casos de nulos podemos ter varias abordagens as mais comuns são:
+- apagar a linha inteira com o dado
+- add a mediana do valor da coluna como novo valor
+
+Para add esse novo valor vamos em Transformar Dados>Selecionar a coluna>Substituir Valores

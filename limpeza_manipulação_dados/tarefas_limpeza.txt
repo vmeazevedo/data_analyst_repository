@@ -1,0 +1,32 @@
+Remoção de dados duplicados
+Eliminar registros duplicados que podem distorcer a análise.
+
+Tratamento de valores ausentes
+Substituir, remover ou estimar valores ausentes nos dados, usando métodos como média, mediana, interpolação ou outros algoritmos.
+
+Correção de erros de digitação e inconsistências
+Identificar e corrigir erros de digitação, formatação e padronização dos dados.
+
+Conversão de tipos de dados
+Transformar variáveis em tipos de dados apropriados, como numérico, categórico ou textual.
+
+Renomeação e reorganização de colunas
+Ajustar os nomes das colunas para facilitar a compreensão e organizá-las de acordo com a necessidade da análise.
+
+Filtragem e seleção de dados
+Extrair subconjuntos específicos de dados com base em critérios pré-determinados, como faixas de valores ou categorias.
+
+Discretização e binning
+Converter variáveis contínuas em categorias ou agrupar dados em intervalos específicos para análise.
+
+Normalização e padronização
+Ajustar a escala dos valores numéricos para facilitar a comparação e melhorar o desempenho de modelos de aprendizado de máquina.
+
+Transformação de variáveis
+Criar novas variáveis a partir de outras existentes ou aplicar transformações matemáticas para simplificar análises ou melhorar a interpretação dos dados.
+
+Detecção e tratamento de outliers
+Identificar e tratar valores extremos que podem afetar a análise ou a modelagem.
+
+Codificação de variáveis categóricas
+Converter variáveis categóricas em formatos numéricos, como codificação one-hot ou ordinal, para serem utilizadas em modelos de aprendizado de máquina.
