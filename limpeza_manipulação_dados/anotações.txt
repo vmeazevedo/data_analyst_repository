@@ -1,0 +1,3 @@
+MODA por Frequência de Contagem:
+Quando realizamos a contagem de frequência obtemos a moda.
+Por exemplo, ao selecionar a variável de "tipo sanguíneo" em uma tabela, iremos obter a lista deles, ao selecionar novamente e ajustar para contagem, vamos ter a quantidade por tipo. Ordenando por DESC obtemos a moda.
